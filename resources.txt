@@ -1,0 +1,18 @@
+link to look at icons
+https://material.io/resources/icons/?style=baseline
+
+1 add this line to the head of the HTML
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+2 use this tag to add them in
+<i class="material-icons" >home</i>
+
+3 style the icon and i tag in the css
+i{
+  
+}
+.material-icons{
+  /*this makes the icon bigger or smaller*/
+  transform: scale(1.2);
+  color: red;
+}
