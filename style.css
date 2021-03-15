@@ -24,11 +24,16 @@ li{
 .row{
   display:flex;
   border: 2px solid yellow;
+  justify-content:   space-between;
 }
 
 i{
   
   border: 2px solid pink;
+}
+
+.icon-holder{
+  margin:auto;
 }
 
 .material-icons{
@@ -39,4 +44,10 @@ i{
 
 .cay{
   background-color: rgba(46, 4, 46, 0.884);
+  font-size: 30px;
 }
+
+.moh{
+  background-color: skyblue;
+}
+

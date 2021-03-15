@@ -16,3 +16,7 @@ i{
   transform: scale(1.2);
   color: red;
 }
+
+
+links to google font and font effects examples
+(past into browser and select to view code)
